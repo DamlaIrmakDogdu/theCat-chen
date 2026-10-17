@@ -18,21 +18,6 @@ Upload the project files directly to your static host, with `index.html` at the 
 
 The recipe image paths expect the site at the domain root, such as `recipes.damlairmak.com`.
 
-## Files
-
-- `index.html`: header, navigation, footer, fonts, and page shell.
-- `style.css`: layout, responsive styles, animations, and print styles.
-- `app.js`: routing, recipe loading, search, filters, and saved favorites.
-- `views.js`: recipe cards and page templates.
-- `effects.js`: cat confetti, winner sound, cooking mode, and printing.
-- `recipes.json`: the five recipes, ingredients, instructions, tips, and photo paths.
-- `assets/branding/`: chef-cat logo and favicon.
-- `assets/audio/`: the two current cat jingles.
-- `assets/recipe1/`: garlic basil bread photos (`garlic-bread1-ingredients.webp`, etc.).
-- `assets/recipe2/`: chocolate biscuit cake photos.
-- `assets/recipe3/`: crinkle cookie photos.
-- `assets/recipe4/`: Miffy butter cookie photos.
-- `assets/recipe5/`: strawberry muffin photos.
 
 ## Editing recipes
 
