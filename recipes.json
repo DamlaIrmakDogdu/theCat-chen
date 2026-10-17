@@ -1,0 +1,372 @@
+[
+  {
+    "id": "1",
+    "name": "Garlic Basil Bread",
+    "description": "Golden and crispy on the outside, soft and buttery on the inside... This garlic bread is infused with garlic, melted butter, and a touch of fresh basil for a change. It’s the perfect comforting side for pastas, soups, or simply enjoyed on its own",
+    "ingredientsImage": "/assets/recipe1/garlic-bread1-ingredients.webp",
+    "ingredients": [
+      "135ml Water",
+      "12g White sugar",
+      "3g Active dry yeast",
+      "1 Egg",
+      "300g All purpose flour",
+      "3g Salt",
+      "15ml Olive Oil",
+      "70g Softened salted butter",
+      "30g Garlic",
+      "Fresh basil (but you can still opt for parsley)",
+      "100g Mozarella cheese"
+    ],
+    "instructions": [
+      {
+        "type": "text",
+        "content": "Mix your water, white sugar and active dry yeast in a medium sized bowl. Wait for 5 minutes"
+      },
+      {
+        "type": "text",
+        "content": "Whisk your egg up and add it to the yeast mixture but keep about 15ml of your egg as we will use it later"
+      },
+      {
+        "type": "text",
+        "content": "Add in your flour and mix."
+      },
+      {
+        "type": "text",
+        "content": "Add in the olive oil and start kneading your dough. Once your dough absorbs the olive oil, you can move on to a flat surface to keep kneading."
+      },
+      {
+        "type": "text",
+        "content": "After kneading the dough, cover and leave it to side until its double the size."
+      },
+      {
+        "type": "text",
+        "content": "Meanwhile, crush up your garlic and thinly chop your basil. Then, add those to your butter and mix them."
+      },
+      {
+        "type": "text",
+        "content": "Give a little kissy to your dough and deflate the air bubbles."
+      },
+      {
+        "type": "text",
+        "content": "Sprinkle some flour on top and roll up your dough into an appropriate size for whatever you will be baking your garlic bread in."
+      },
+      {
+        "type": "text",
+        "content": "People usually use a standard cake pan but here is what i used and how my spread looks compared to it:"
+      },
+      {
+        "type": "image",
+        "url": "/assets/recipe1/garlic-bread3.webp"
+      },
+      {
+        "type": "text",
+        "content": "Spread your garlic-butter mixture onto your dough, make sure to leave a 2cm gap from the corners."
+      },
+      {
+        "type": "text",
+        "content": "Add in your mozarella cheese to your hearts desire. You can FOR SURE use more than 100g. I approve."
+      },
+      {
+        "type": "text",
+        "content": "Roll your beautiful garlic bread from the short end and slice it to 10 equal parts."
+      },
+      {
+        "type": "text",
+        "content": "Place the dough in your pan and let it rise for another 30 minutes, 45 if you have enough patience."
+      },
+      {
+        "type": "text",
+        "content": "Pre-heat your oven to 180C."
+      },
+      {
+        "type": "text",
+        "content": "Give your garlic bread an egg wash and send it to the oven to bake for 35mins."
+      },
+      {
+        "type": "text",
+        "content": "And voila! You garlic basil bread is ready. I hope it was worth all the waiting you did."
+      },
+      {
+        "type": "image",
+        "url": "/assets/recipe1/garlic-bread4.webp"
+      }
+    ],
+    "tags": [
+      "Salty",
+      "Pastry"
+    ],
+    "imageUrl": "/assets/recipe1/garlic-bread2.webp"
+  },
+  {
+    "id": "3",
+    "name": "Crinkle Cookies",
+    "description": "These are light, fluffy and cakey cookies. Literally a cake disguised as a cookie! Serve them warm with cold milk to turn your bad day into a good one.",
+    "ingredientsImage": "/assets/recipe3/crinkle-cookies1-ingredients.webp",
+    "ingredients": [
+      "60g Cocoa powder",
+      "170g Caster (thin) sugar",
+      "60ml Vegetable oil",
+      "2 Large Eggs",
+      "1tsp Vanilla extract",
+      "1ts Ground coffe + 1ts water mix",
+      "150g All purpose flour",
+      "1 1/2 tsp Baking Powder",
+      "A pinch of salt",
+      "50g Powdered sugar"
+    ],
+    "instructions": [
+      {
+        "type": "text",
+        "content": "In a bowl, sift cocoa powder, add sugar, and whisk."
+      },
+      {
+        "type": "text",
+        "content": "Add oil, eggs, vanilla, and the coffee mixture."
+      },
+      {
+        "type": "text",
+        "content": "Add flour, baking powder, and salt. Fold with a spatula until a sticky, glossy dough forms."
+      },
+      {
+        "type": "text",
+        "content": "Cover and chill in the fridge overnight (or at least 2 hours)."
+      },
+      {
+        "type": "text",
+        "content": "Preheat oven to 180°C and line a tray with parchment."
+      },
+      {
+        "type": "text",
+        "content": "Seperate the dough into 8/16/32 pieces, roll into balls, and coat in powdered sugar."
+      },
+      {
+        "type": "text",
+        "content": "Place on tray with space between each."
+      },
+      {
+        "type": "text",
+        "content": "Bake for 10–13 minutes."
+      },
+      {
+        "type": "tip",
+        "content": "Tip: If you want sweeter cookies, make a 32 cookie batch. If you want more cakey cookies, make a 16 cookie batch."
+      },
+      {
+        "type": "group",
+        "layout": "side-by-side",
+        "images": [
+          "/assets/recipe3/crinkle-cookies3.webp",
+          "/assets/recipe3/crinkle-cookies4.webp"
+        ]
+      }
+    ],
+    "tags": [
+      "Chocolate",
+      "Cookies"
+    ],
+    "imageUrl": "/assets/recipe3/crinkle-cookies2.webp"
+  },
+  {
+    "id": "2",
+    "name": "Chocolate Biscuit Cake",
+    "description": "A simple no bake cake that takes me back to my childhood every time I eat it. Perfect for when you want something cozy but a little extra.",
+    "ingredientsImage": "/assets/recipe2/chocolate-biscuit-cake1-ingredients.webp",
+    "ingredients": [
+      "200ml Milk",
+      "100g Butter",
+      "100g White sugar",
+      "50g Cocoa powder",
+      "300g Biscuits"
+    ],
+    "instructions": [
+      {
+        "type": "text",
+        "content": "Melt your butter"
+      },
+      {
+        "type": "text",
+        "content": "Mix all of your wet ingredients, make sure there are no clumps in your mixture"
+      },
+      {
+        "type": "text",
+        "content": "Break and add your biscuits into the wet mixture. Try not to crumble the biscuits too much."
+      },
+      {
+        "type": "text",
+        "content": "Here is how big my biscuits looked after I broke them:"
+      },
+      {
+        "type": "image",
+        "url": "/assets/recipe2/chocolate-biscuit-cake3.webp"
+      },
+      {
+        "type": "text",
+        "content": "Carefully incorparate all of the ingredients, make sure all the biscuits are covered in chocolate."
+      },
+      {
+        "type": "text",
+        "content": "Transfer the mixture onto seran wrap and shape it however you like."
+      },
+      {
+        "type": "image",
+        "url": "/assets/recipe2/chocolate-biscuit-cake4.webp"
+      },
+      {
+        "type": "text",
+        "content": "Send the mixture to the freezer for 3 hours, 2 if youre impatient."
+      },
+      {
+        "type": "text",
+        "content": "And voila! Now you have some chocolate biscuit cake -or whatever you wanna call it- to enjoy however you like!"
+      }
+    ],
+    "tags": [
+      "Chocolate",
+      "Cake"
+    ],
+    "imageUrl": "/assets/recipe2/chocolate-biscuit-cake2.webp"
+  },
+  {
+    "id": "4",
+    "name": "Miffy Butter Cookies",
+    "description": "These sugar butter cookies are soft, buttery, and delicately sweet. With crisp edges and a tender center, they offer a classic, comforting flavor that is perfect with tea, coffee, or enjoyed on their own. Simple to make and impossible to resist.",
+    "ingredientsImage": "/assets/recipe4/miffy-butter-cookies1-ingredients.webp",
+    "ingredients": [
+      "50g Slightly softened butter",
+      "50g Granulated sugar",
+      "1 Egg yolk",
+      "1/2 ts Vanilla extract",
+      "100g All purpose flour"
+    ],
+    "instructions": [
+      {
+        "type": "text",
+        "content": "Cream the butter and sugar together and make sure the sugar is full incorporated"
+      },
+      {
+        "type": "text",
+        "content": "Add in the egg yolk and vanilla extract and mix."
+      },
+      {
+        "type": "text",
+        "content": "Sift in the flour."
+      },
+      {
+        "type": "text",
+        "content": "Mix it all until it forms into a dough."
+      },
+      {
+        "type": "text",
+        "content": "Wrap it in plastic wrap and let it rest in the fridge for around 30mins."
+      },
+      {
+        "type": "text",
+        "content": "Take out your dough, thin out your dough using a rolling pin."
+      },
+      {
+        "type": "text",
+        "content": "Preheat your oven to 150C."
+      },
+      {
+        "type": "text",
+        "content": "Make shapes with your cookie cutter."
+      },
+      {
+        "type": "text",
+        "content": "Send your cookies in the oven for 20 minutes, 25 if you have made thick cookies."
+      },
+      {
+        "type": "text",
+        "content": "Ta-da! Now you have cute and light cookies to enjoy!"
+      },
+      {
+        "type": "group",
+        "layout": "side-by-side",
+        "images": [
+          "/assets/recipe4/miffy-butter-cookies3.webp",
+          "/assets/recipe4/miffy-butter-cookies4.webp"
+        ]
+      }
+    ],
+    "tags": [
+      "Cookies"
+    ],
+    "imageUrl": "/assets/recipe4/miffy-butter-cookies2.webp"
+  },
+  {
+    "id": "5",
+    "name": "Strawberry Muffins",
+    "description": "My sister came into my room with a container full of strawberries, asking for strawberry muffins.. Anyone else had this happen to them..? Then fear not! Here is my simple recipe to make soft and fluffy muffins that are just the right amount of sweet. This recipe makes about 12 muffins",
+    "ingredientsImage": "/assets/recipe5/strawberry-muffins1-ingredients.webp",
+    "ingredients": [
+      "Around 350g diced strawberries",
+      "250g All purpose flour",
+      "110g Salted butter",
+      "230g Granulated sugar",
+      "120ml Milk",
+      "1 1/2ts vanilla extract",
+      "2 Eggs",
+      "2ts Baking powder",
+      "A pinch of salt"
+    ],
+    "instructions": [
+      {
+        "type": "text",
+        "content": "In a bowl, beat butter and sugar for 2 minutes. Add eggs one at a time, then mix in vanilla and almond extracts."
+      },
+      {
+        "type": "text",
+        "content": "In another bowl, mix 2 cups flour, baking powder, and salt."
+      },
+      {
+        "type": "text",
+        "content": "Add the flour mix into the dry ingredients in parts, alternating with milk."
+      },
+      {
+        "type": "text",
+        "content": "Mix it all until it forms into a dough."
+      },
+      {
+        "type": "text",
+        "content": "Add around 2/3 of the strawberries into the mixture."
+      },
+      {
+        "type": "text",
+        "content": "Fill muffin cups to the top. Add reserved berries on top."
+      },
+      {
+        "type": "text",
+        "content": "Preheat oven to 190°C."
+      },
+      {
+        "type": "text",
+        "content": "ake for 30 minutes, until golden and a toothpick comes out clean."
+      },
+      {
+        "type": "text",
+        "content": "Cool in the pan for 25 minutes, then transfer to a rack to cool fully."
+      },
+      {
+        "type": "text",
+        "content": "Yay! Now you have strawberry muffins to feed your loved ones with <3"
+      },
+      {
+        "type": "image",
+        "url": "/assets/recipe5/strawberry-muffins3.webp"
+      },
+      {
+        "type": "group",
+        "layout": "side-by-side",
+        "images": [
+          "/assets/recipe5/strawberry-muffins4.webp",
+          "/assets/recipe5/strawberry-muffins5.webp"
+        ]
+      }
+    ],
+    "tags": [
+      "Fruit",
+      "Cake"
+    ],
+    "imageUrl": "/assets/recipe5/strawberry-muffins2.webp"
+  }
+]
